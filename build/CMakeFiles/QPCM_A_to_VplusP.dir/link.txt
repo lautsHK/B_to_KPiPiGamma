@@ -1,0 +1,2 @@
+/usr/bin/ar qc libQPCM_A_to_VplusP.a  CMakeFiles/QPCM_A_to_VplusP.dir/src/Quark_Pair_Creation_Model/QPCM_A_to_VplusP.cpp.o
+/usr/bin/ranlib libQPCM_A_to_VplusP.a

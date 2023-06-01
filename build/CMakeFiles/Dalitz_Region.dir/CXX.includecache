@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Dalitz_Region.hpp
+Kinematics.hpp
+../include/Kinematics.hpp
+
+../include/Kinematics.hpp
+
+/afs/desy.de/user/t/tslau/belle2/Tak/B_to_KPiPiGamma/src/Dalitz_Region.cpp
+Dalitz_Region.hpp
+/afs/desy.de/user/t/tslau/belle2/Tak/B_to_KPiPiGamma/src/Dalitz_Region.hpp
+Kinematics.hpp
+/afs/desy.de/user/t/tslau/belle2/Tak/B_to_KPiPiGamma/src/Kinematics.hpp
+iostream
+-
+cmath
+-
+cstdlib
+-
+cstdio
+-
+ctime
+-
+cassert
+-
+

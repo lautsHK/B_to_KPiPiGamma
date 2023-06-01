@@ -1,0 +1,2 @@
+/usr/bin/ar qc libForm_Factors.a  CMakeFiles/Form_Factors.dir/src/Form_Factors.cpp.o
+/usr/bin/ranlib libForm_Factors.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMatrix_Elements.a  CMakeFiles/Matrix_Elements.dir/src/Matrix_Elements.cpp.o
+/usr/bin/ranlib libMatrix_Elements.a

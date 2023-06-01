@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/RandomGen.hpp
+
+/afs/desy.de/user/t/tslau/belle2/Tak/B_to_KPiPiGamma/tests/making_test1/src/generator_test.cpp
+RandomGen.hpp
+/afs/desy.de/user/t/tslau/belle2/Tak/B_to_KPiPiGamma/tests/making_test1/src/RandomGen.hpp
+iostream
+-
+cmath
+-
+cstdlib
+-
+cstdio
+-
+ctime
+-
+

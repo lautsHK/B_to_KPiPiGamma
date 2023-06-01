@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCoupling_Constants.a  CMakeFiles/Coupling_Constants.dir/src/Coupling_Constants.cpp.o
+/usr/bin/ranlib libCoupling_Constants.a

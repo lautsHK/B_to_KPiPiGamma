@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Transform.hpp
+
+/afs/desy.de/user/t/tslau/belle2/Tak/B_to_KPiPiGamma/src/Transform.cpp
+Transform.hpp
+/afs/desy.de/user/t/tslau/belle2/Tak/B_to_KPiPiGamma/src/Transform.hpp
+iostream
+-
+cmath
+-
+cstdlib
+-
+cstdio
+-
+

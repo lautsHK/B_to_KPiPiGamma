@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDalitz_Region.a  CMakeFiles/Dalitz_Region.dir/src/Dalitz_Region.cpp.o
+/usr/bin/ranlib libDalitz_Region.a

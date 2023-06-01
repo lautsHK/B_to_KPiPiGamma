@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Coupling_Constants.hpp
+Kinematics.hpp
+../include/Kinematics.hpp
+Particle.hpp
+../include/Particle.hpp
+
+../include/Kinematics.hpp
+
+../include/Particle.hpp
+map
+-
+string
+-
+
+/afs/desy.de/user/t/tslau/belle2/Tak/B_to_KPiPiGamma/src/Coupling_Constants.cpp
+Coupling_Constants.hpp
+/afs/desy.de/user/t/tslau/belle2/Tak/B_to_KPiPiGamma/src/Coupling_Constants.hpp
+Kinematics.hpp
+/afs/desy.de/user/t/tslau/belle2/Tak/B_to_KPiPiGamma/src/Kinematics.hpp
+Particle.hpp
+/afs/desy.de/user/t/tslau/belle2/Tak/B_to_KPiPiGamma/src/Particle.hpp
+iostream
+-
+cmath
+-
+cstdlib
+-
+cstdio
+-
+ctime
+-
+cassert
+-
+

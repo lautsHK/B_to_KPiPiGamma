@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHelicity_Amplitude.a  CMakeFiles/Helicity_Amplitude.dir/src/Helicity_Amplitude.cpp.o
+/usr/bin/ranlib libHelicity_Amplitude.a

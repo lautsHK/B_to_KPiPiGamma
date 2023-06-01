@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Particle.hpp
+map
+-
+string
+-
+
+/afs/desy.de/user/t/tslau/belle2/Tak/B_to_KPiPiGamma/src/Particle.cpp
+Particle.hpp
+/afs/desy.de/user/t/tslau/belle2/Tak/B_to_KPiPiGamma/src/Particle.hpp
+iostream
+-
+cmath
+-
+cstdlib
+-
+cstdio
+-
+ctime
+-
+cassert
+-
+map
+-
+string
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libKres_to_VP.a  CMakeFiles/Kres_to_VP.dir/src/Quark_Pair_Creation_Model/Kres_to_VP.cpp.o
+/usr/bin/ranlib libKres_to_VP.a

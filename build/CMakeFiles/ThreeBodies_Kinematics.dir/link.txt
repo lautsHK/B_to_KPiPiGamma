@@ -1,0 +1,2 @@
+/usr/bin/ar qc libThreeBodies_Kinematics.a  CMakeFiles/ThreeBodies_Kinematics.dir/src/ThreeBodies_Kinematics.cpp.o
+/usr/bin/ranlib libThreeBodies_Kinematics.a
