@@ -16,11 +16,11 @@ When $\lambda\to 1$, the generated events are mainly right-handed polarised. Whi
 
 ## Installation
 This package needs C++11 and cmake3. Please make sure your working environment support the mentioned version.
-Once the envirnment is ready, please do :
-'rm -rf build' (to clean)
-'mkdir build' (to build the "build" directory)
-'cd build'
-'cmake3 ./..' 
-'make'
+Once the envirnment is ready, please do :  
+`rm -rf build` (to clean)  
+`mkdir build` (to build the "build" directory)  
+`cd build`  
+`cmake3 ./..`   
+`make`  
 
 The package should be compiled sucessfully.
